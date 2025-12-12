@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision>=0.15.0
+datasets>=2.14.0
+Pillow>=10.0.0
+matplotlib>=3.7.0
+huggingface-hub>=0.16.0
